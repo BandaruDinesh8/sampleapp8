@@ -1,0 +1,15 @@
+{
+  "npmScope": "com.fusiongbs.sampleapp8",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "shell": {
+      "tags": []
+    }
+  }
+}
