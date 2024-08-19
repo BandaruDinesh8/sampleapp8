@@ -1,0 +1,12 @@
+begin localizable string
+   name           : LSGADG1AAP0ICAS8632VS8632VGI90
+   timestamp      : 1724049823
+   owner          : dinesh.bandaru
+   last-changed   : dinesh.bandaru
+   bundle         : com.fusiongbs.sampleapp8
+   stringId       : 5fae7ead-7192-4a2c-acf9-78213b49395e
+   owner-objects  : 17\031c9ce7-5672-478e-b21e-280f1391b03b
+   object-prop    : 2\90016\4\1\1\90015\2\4\
+   locale         : default
+   string-text    : <p>This is my first view</p>
+end
